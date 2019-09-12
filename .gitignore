@@ -3,4 +3,5 @@ geckodriver.log
 .idea
 .python-version
 *.pyc
-__pycache__/static
+__pycache__
+/static
